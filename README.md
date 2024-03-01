@@ -2,7 +2,6 @@
 A web browser built with JavaScript as a Windows app.<br />
 http://microsoftedge.github.io/JSBrowser/
 
-[![badge_windowsstore](https://cloud.githubusercontent.com/assets/7266075/9445327/6a0e1d9e-4a40-11e5-80e9-99b21af35c35.png)](https://www.microsoft.com/store/apps/9NBLGGH1Z7VX)
 
 ![JavaScript Browser](https://cloud.githubusercontent.com/assets/3200580/10122615/99850d4a-651f-11e5-8357-e83576384010.png)
 
